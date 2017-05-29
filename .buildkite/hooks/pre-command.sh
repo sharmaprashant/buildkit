@@ -1,4 +1,4 @@
 #!/bin/bash
 
-touch /usr/share/nginx/html/prashant.html
-echo "Prashant" >> /usr/share/nginx/html/prashant.html
+touch /var/lib/buildkite-agent/prashant.html
+echo "Prashant" >> /var/lib/buildkite-agent/prashant.html
