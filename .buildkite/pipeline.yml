@@ -1,0 +1,3 @@
+steps:
+	- label: Example
+	  command: echo "Hello Prashant!"
